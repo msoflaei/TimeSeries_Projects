@@ -4,12 +4,9 @@
 This Jupyter Notebook provides an introduction to a time series model. The aim is to demonstrate how to analyze and forecast time series data using Python.
 
 ## Table of Contents
-1. Introduction
-2. Data Preprocessing
-3. Time Series Analysis
-4. Model Implementation
-5. Forecasting
-6. Conclusion
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
 
 ## Installation
 To run this notebook, you need to have Python installed along with the following libraries:
